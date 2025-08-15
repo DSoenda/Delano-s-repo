@@ -14,3 +14,5 @@ im a techniciam with more than 30 years of experience in lowvoltage applications
 This folder showcases projects I have completed.
 ## Contents
 * [Hello World](hello_world)
+* project 1
+* project 2
